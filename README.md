@@ -27,7 +27,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=utkarsh1-web&show_icons=true&locale=en&layout=compact" alt="utkarsh1-web" /></p>
 <br>
-<br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=utkarsh1-web&show_icons=true&locale=en" alt="utkarsh1-web" /></p>
 
