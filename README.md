@@ -11,10 +11,9 @@
 
 ## 👨‍💻 About Me
 - 💼 Software Developer with experience in **Full Stack Development & Data Engineering**
-- ⚡ Built automation systems reducing manual workload by **80%**
-- 🏢 Worked at **Fidelity Investments** on end-to-end feature development
-- 🤖 **AI & ML Enthusiast**, continuously exploring new technologies
-- 🌱 Currently building **Interactive Portfolio Projects & Scalable Systems**
+- 🏢 Worked at **Fidelity Investments, AB InBev & Cartosense**
+- 🤖 **AI & ML Enthusiast**, exploring real-world applications
+- 🌱 Currently building **Interactive Portfolio & Scalable Systems**
 - 🎯 Targeting roles in **SDE / Backend / Data / Cloud**
 
 ---
@@ -33,36 +32,47 @@
 `Google Cloud (GCP)` `AWS` `Docker` `Terraform`
 
 ### 📊 Data & Tools
-`MySQL` `Pandas` `NumPy` `OpenCV`
+`MySQL` `Pandas` `NumPy` `OpenCV` `Power BI`
 
 ---
 
 ## 💼 Experience
-### 🏢 Fidelity Investments
-- Developed **end-to-end Election Contribution flow**
-- Built key pages:
-  - Election Contribution Page  
-  - Review Page  
-  - Final Confirmation Page  
-- Worked on **retirement investment platform**
-- Focused on **scalable UI + backend integration**
+
+### 🏢 Fidelity Investments | Software Developer  
+📍 Bengaluru, India | 🗓️ 09/2024 – Present  
+- Built **end-to-end customer-facing transactional flows** (UI, routing, API integration) in NetBenefits monorepo, deployed to production  
+- Improved code quality from **Level 2 → Level 4**, fixing **50+ SonarQube issues**, boosting maintainability by **30%**  
+- Developed **30+ UI test cases using Playwright**, increasing regression coverage by **80%**  
+- Ranked **Top 5** in company-wide hackathon (SMS enablement use case) among 20+ teams  
+- Mentored junior developer; project recognized on internal innovation platform (**Eureka**)  
+
+---
+
+### 🍺 AB InBev | Data Scientist  
+📍 Bengaluru, India | 🗓️ 02/2023 – 08/2023  
+- Automated data workflows using Python, reducing manual effort by **80%**  
+- Built SQL-based data pipelines & performed **data modeling + ETL**  
+- Created **Power BI dashboards**, improving decision-making efficiency by **70%**  
+
+---
+
+### 🧠 Cartosense | Software Developer  
+📍 Bengaluru, India | 🗓️ 09/2022 – 10/2022  
+- Developed Python scripts improving surgical instrument accuracy by **95%**  
+- Contributed to smart brain-surgery system with high precision outcomes  
 
 ---
 
 ## 📌 Projects
 ### 🔹 Interactive Portfolio
-- Personal portfolio with modern UI & interactive elements
+- Modern, responsive personal portfolio with interactive UI  
+👉 https://portfolio-ml8g.vercel.app/
 
 ### 🔹 Fake News Detection System
-- NLP-based system for financial/internal communication
-- Integrated chatbot & analytics dashboard
+- NLP-based system with chatbot & analytics dashboard  
 
 ### 🔹 Gesture Controlled Game
-- Built using Unity + OpenCV
-- Improved gesture recognition accuracy by **50%**
-
-### 🔹 Automation System (AB InBev)
-- Reduced manual workload by **80%** using Python
+- Unity + OpenCV project with **50% accuracy improvement**  
 
 ---
 
