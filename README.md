@@ -1,29 +1,88 @@
 <h1 align="center">Hi 👋, I'm Utkarsh Pareek</h1>
-<h3 align="center">A Passionate Software Developer</h3>
+<h3 align="center">🚀 Software Developer | Backend • Frontend • Data • Cloud</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=utkarsh1-web&label=Profile%20views&color=0e75b6&style=flat" alt="utkarsh1-web" /> </p>
-<p align="left"> <a href="https://twitter.com/utkarshpareek14" target="blank"><img src="https://img.shields.io/twitter/follow/utkarshpareek14?logo=twitter&style=for-the-badge" alt="utkarshpareek14" /></a> </p>
-
-- 🌱 I’m currently learning **Java,Angular,Springboot**
-
-- 📫 How to reach me **utkarshpareek70@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@UtkarshPareek14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@utkarshpareek14" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/utkarsh-pareek-1458b91a5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="utkarsh-pareek-1458b91a5" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@coolutk007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@coolutk007" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/coolutk007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="coolutk007" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/coolutk007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="coolutk007" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/utkarsh1-web">
+    <img src="https://komarev.com/ghpvc/?username=utkarsh1-web&label=Profile%20views&color=0e75b6&style=flat" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+---
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=utkarsh1-web&show_icons=true&locale=en&layout=compact" alt="utkarsh1-web" /></p>
-<br>
+## 👨‍💻 About Me
+- 💼 Software Developer with experience in **Full Stack Development & Data Engineering**
+- ⚡ Built automation systems reducing manual workload by **80%**
+- 🏢 Worked at **Fidelity Investments** on end-to-end feature development
+- 🤖 **AI & ML Enthusiast**, continuously exploring new technologies
+- 🌱 Currently building **Interactive Portfolio Projects & Scalable Systems**
+- 🎯 Targeting roles in **SDE / Backend / Data / Cloud**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=utkarsh1-web&show_icons=true&locale=en" alt="utkarsh1-web" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=utkarsh1-web&" alt="utkarsh1-web" /></p>
+## 🛠️ Tech Stack
+### 🚀 Languages
+`Java` `Python` `JavaScript` `C++` `SQL`
+
+### 🎨 Frontend
+`Angular` `HTML` `CSS` `JavaScript`
+
+### ⚙️ Backend & Frameworks
+`Spring Boot` `Node.js`
+
+### ☁️ Cloud & DevOps
+`Google Cloud (GCP)` `AWS` `Docker` `Terraform`
+
+### 📊 Data & Tools
+`MySQL` `Pandas` `NumPy` `OpenCV`
+
+---
+
+## 💼 Experience
+### 🏢 Fidelity Investments
+- Developed **end-to-end Election Contribution flow**
+- Built key pages:
+  - Election Contribution Page  
+  - Review Page  
+  - Final Confirmation Page  
+- Worked on **retirement investment platform**
+- Focused on **scalable UI + backend integration**
+
+---
+
+## 📌 Projects
+### 🔹 Interactive Portfolio
+- Personal portfolio with modern UI & interactive elements
+
+### 🔹 Fake News Detection System
+- NLP-based system for financial/internal communication
+- Integrated chatbot & analytics dashboard
+
+### 🔹 Gesture Controlled Game
+- Built using Unity + OpenCV
+- Improved gesture recognition accuracy by **50%**
+
+### 🔹 Automation System (AB InBev)
+- Reduced manual workload by **80%** using Python
+
+---
+
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=utkarsh1-web&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=utkarsh1-web&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://linkedin.com/in/utkarsh-pareek-1458b91a5"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://twitter.com/UtkarshPareek14"><img src="https://skillicons.dev/icons?i=twitter" /></a>
+  <a href="mailto:utkarshpareek70@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://portfolio-ml8g.vercel.app/"><img src="https://skillicons.dev/icons?i=react" /></a>
+</p>
+
+---
+
+## 💡 Fun Fact
+🏸 Played **Badminton at District Level** & ⚾ **Baseball at National Level**
